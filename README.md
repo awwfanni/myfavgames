@@ -17,3 +17,12 @@ $Env:FLASK_DEBUG= = "1"
 
 flask run
 
+#### Tech stack:
+
+Python
+
+SQLite
+
+Flask
+
+Bootstrap
