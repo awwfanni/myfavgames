@@ -17,7 +17,7 @@ $Env:FLASK_DEBUG= = "1"
 
 flask run
 
-#### Tech stack:
+### Tech stack:
 
 Python
 
